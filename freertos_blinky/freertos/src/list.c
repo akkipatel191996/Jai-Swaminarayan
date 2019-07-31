@@ -5,7 +5,8 @@
     VISIT http://www.FreeRTOS.org TO ENSURE YOU ARE USING THE LATEST VERSION.
 
     ***************************************************************************
-     *                                                                       *
+     * 
+     *                                                                      *
      *    FreeRTOS provides completely free yet professionally developed,    *
      *    robust, strictly quality controlled, supported, and cross          *
      *    platform software that has become a de facto standard.             *
