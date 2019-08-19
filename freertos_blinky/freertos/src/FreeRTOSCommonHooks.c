@@ -1,6 +1,6 @@
 /*
  * @brief Common FreeRTOS functions shared among platforms
- *
+ 
  * @note
  * Copyright(C) NXP Semiconductors, 2012
  * All rights reserved.
